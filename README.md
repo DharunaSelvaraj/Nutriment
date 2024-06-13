@@ -76,6 +76,15 @@ Welcome to the Calorie Calculator! This application helps users calculate the ca
   - Java(Swing for GUI)
 - **IDE**:
   - IntelliJ IDEA/Eclipse/NetBeans
+
+## South Indian Meal Plan
+The application includes a comprehensive list of South Indian meals with their calorie content. Some examples include:
+
+Idli: 39 calories per piece
+Dosa: 168 calories per piece
+Upma: 192 calories per serving
+Sambar: 150 calories per bowl
+Pongal: 206 calories per serving
   
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
